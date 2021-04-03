@@ -23,6 +23,7 @@ draft: false
 - [easybib](https://www.easybib.com/grammar-and-plagiarism/)
 - [proofreadingtool](https://proofreadingtool.com/) : beautiful proofreading tools
 - [scribbr](https://www.scribbr.com/proofreading-editing/essay-editing-service/)
+- [PaperTrue](https://www.papertrue.com/academic/thesis-dissertation-editing-proofreading) : Academic editing and proofreading
 - [Grammark](https://grammark.org/dist/#/) : opensource
 - [Outwrite](https://www.outwrite.com/)
 - [Grammarly](https://app.grammarly.com/)
